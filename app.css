@@ -1,0 +1,19 @@
+.row {
+	height: 20px;
+	display: block;
+}
+
+.element {
+	height: 20px;
+	width: 20px;
+	float: left;
+	background-color: #99CCFF;
+}
+
+.snake {
+	background-color: #33AD33;
+}
+
+.apple {
+	background-color: red;
+}
